@@ -1,4 +1,4 @@
-[![Header](https://imgur.com/a/wcJ2Dmk)]
+[![Header](https://i.imgur.com/jhD11WH.png)]
 ## I'm a Solana | Ton | dApp Developer
 
 ## Languages and Tools
